@@ -1,3 +1,5 @@
+PostgreSQL Brasil - Website Responsivo e PWA
+
 Este projeto é um website institucional responsivo dedicado ao PostgreSQL, desenvolvido como uma Progressive Web Application (PWA). O site apresenta informações completas sobre o sistema de gerenciamento de banco de dados PostgreSQL, suas funcionalidades, recursos avançados e comunidade brasileira.
 🎯 Objetivos do Projeto
 
