@@ -1,0 +1,94 @@
+{
+  "name": "PostgreSQL Brasil - O Banco de Dados Mais Avançado",
+  "short_name": "PostgreSQL BR",
+  "description": "Website oficial PostgreSQL Brasil - Sistema de gerenciamento de banco de dados relacional open source mais avançado do mundo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#336791",
+  "theme_color": "#336791",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "pt-BR",
+  "categories": ["database", "technology", "developer tools"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 72 72' fill='%23336791'><rect width='72' height='72' fill='white' rx='12'/><path d='M36 10c-14.4 0-26 11.6-26 26s11.6 26 26 26 26-11.6 26-26S50.4 10 36 10zm0 48c-12.1 0-22-9.9-22-22s9.9-22 22-22 22 9.9 22 22-9.9 22-22 22z'/><text x='36' y='42' text-anchor='middle' font-family='Arial' font-size='16' font-weight='bold' fill='%23336791'>PG</text></svg>",
+      "sizes": "72x72",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96' fill='%23336791'><rect width='96' height='96' fill='white' rx='16'/><path d='M48 12c-19.9 0-36 16.1-36 36s16.1 36 36 36 36-16.1 36-36-16.1-36-36-36zm0 66c-16.6 0-30-13.4-30-30s13.4-30 30-30 30 13.4 30 30-13.4 30-30 30z'/><text x='48' y='56' text-anchor='middle' font-family='Arial' font-size='20' font-weight='bold' fill='%23336791'>PG</text></svg>",
+      "sizes": "96x96",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128' fill='%23336791'><rect width='128' height='128' fill='white' rx='20'/><path d='M64 16c-26.5 0-48 21.5-48 48s21.5 48 48 48 48-21.5 48-48-21.5-48-48-48zm0 88c-22.1 0-40-17.9-40-40s17.9-40 40-40 40 17.9 40 40-17.9 40-40 40z'/><text x='64' y='74' text-anchor='middle' font-family='Arial' font-size='26' font-weight='bold' fill='%23336791'>PG</text></svg>",
+      "sizes": "128x128",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192' fill='%23336791'><rect width='192' height='192' fill='white' rx='28'/><circle cx='96' cy='96' r='72' fill='none' stroke='%23336791' stroke-width='8'/><circle cx='96' cy='96' r='60' fill='none' stroke='%234a90c2' stroke-width='4'/><text x='96' y='108' text-anchor='middle' font-family='Arial' font-size='36' font-weight='bold' fill='%23336791'>PG</text><text x='96' y='140' text-anchor='middle' font-family='Arial' font-size='14' fill='%23666'>PostgreSQL</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' fill='%23336791'><rect width='512' height='512' fill='white' rx='64'/><circle cx='256' cy='256' r='200' fill='none' stroke='%23336791' stroke-width='20'/><circle cx='256' cy='256' r='160' fill='none' stroke='%234a90c2' stroke-width='12'/><circle cx='256' cy='256' r='120' fill='%23336791' opacity='0.1'/><text x='256' y='290' text-anchor='middle' font-family='Arial' font-size='96' font-weight='bold' fill='%23336791'>PG</text><text x='256' y='360' text-anchor='middle' font-family='Arial' font-size='36' fill='%23666'>PostgreSQL</text><text x='256' y='400' text-anchor='middle' font-family='Arial' font-size='24' fill='%23999'>Database</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 540 720'><rect width='540' height='720' fill='%23336791'/><rect x='0' y='0' width='540' height='80' fill='%232d5a87'/><text x='270' y='50' text-anchor='middle' font-family='Arial' font-size='24' fill='white' font-weight='bold'>PostgreSQL Brasil</text><rect x='20' y='100' width='500' height='200' fill='%234a90c2' rx='10'/><text x='270' y='180' text-anchor='middle' font-family='Arial' font-size='32' fill='white' font-weight='bold'>PostgreSQL</text><text x='270' y='220' text-anchor='middle' font-family='Arial' font-size='16' fill='white'>O banco de dados mais avançado</text><rect x='20' y='320' width='500' height='380' fill='white' rx='10'/><text x='270' y='360' text-anchor='middle' font-family='Arial' font-size='20' fill='%23336791'>Recursos Principais</text></svg>",
+      "sizes": "540x720",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 720 540'><rect width='720' height='540' fill='%23f8f9fa'/><rect x='0' y='0' width='720' height='60' fill='%23336791'/><text x='360' y='38' text-anchor='middle' font-family='Arial' font-size='20' fill='white' font-weight='bold'>PostgreSQL Brasil</text><rect x='40' y='80' width='640' height='440' fill='white' rx='10' stroke='%23ddd'/><text x='360' y='140' text-anchor='middle' font-family='Arial' font-size='28' fill='%23336791' font-weight='bold'>Dashboard PostgreSQL</text><rect x='80' y='180' width='560' height='300' fill='%23f1f3f4' rx='5'/></svg>",
+      "sizes": "720x540",
+      "type": "image/svg+xml",
+      "form_factor": "wide"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Documentação",
+      "short_name": "Docs",
+      "description": "Acesse a documentação do PostgreSQL",
+      "url": "/#features",
+      "icons": [
+        {
+          "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23336791'><path d='M14,2H6A2,2 0 0,0 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V8L14,2M18,20H6V4H13V9H18V20Z'/></svg>",
+          "sizes": "24x24",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Contato",
+      "short_name": "Contato",
+      "description": "Entre em contato conosco",
+      "url": "/#contact",
+      "icons": [
+        {
+          "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23336791'><path d='M20,4H4A2,2 0 0,0 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V6A2,2 0 0,0 20,4M20,18H4V8L12,13L20,8V18M20,6L12,11L4,6V6H20V6Z'/></svg>",
+          "sizes": "24x24",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://www.postgresql.org/"
+    }
+  ],
+  "prefer_related_applications": false
+}
